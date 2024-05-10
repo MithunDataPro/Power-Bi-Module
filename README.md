@@ -12,4 +12,4 @@ In this assignment, comprehensive data analysis and visualization techniques wer
 
     **1.** Project Dataset_[Employee_reimbursment_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Employee_reimbursement_dataset.xlsx)_ 
 
-    **2.** Project Task _[market performance and sales targets](https://github.com/MithunDataPro/Excel-Sales_Analytics/blob/main/Market%20Performance%20VS%20Target%20Reported.pdf)_
+    **2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Chapter_2_Ex.pdf)_
