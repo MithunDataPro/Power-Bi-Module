@@ -10,7 +10,7 @@ In this assignment, comprehensive data analysis and visualization techniques wer
 
 - **Project objective:** 
 
-  **1.** Project Dataset_[Bank_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
+      **1.** Project Dataset_[Bank_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
 
   **2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Chapter_2_Ex.pdf)_
 
