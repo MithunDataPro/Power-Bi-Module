@@ -10,7 +10,7 @@ In this assignment, comprehensive data analysis and visualization techniques wer
 
 - **Project objective:** 
 
-      **1.** Project Dataset_[Bank_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
+  **1.** Project Dataset_[Employee_Reimbursment_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Employee_reimbursement_dataset.xlsx)_ 
 
   **2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Chapter_2_Ex.pdf)_
 
@@ -32,11 +32,11 @@ This assignment focused on advanced data transformation techniques using Power Q
 
 **Project objective:** 
 
-    **1.** Project Dataset_[Employee_reimbursment_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
+**1.** Project Dataset_[Bank_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
 
-    **2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Chapter_2_Ex.pdf)_
+**2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Tasks%20To%20Perform.pdf)_
 
-    **3.** PowerBI Dashboard Visualization For Above Task_[Power_Bi_DashBoard_Employee_Reimbursment_DataSet](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Solution%20Assignment-1.pbix)_ 
+**3.** Data Transformation Done Through Power Query_[Data_Transformation](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
 
 ## Tasks and Skills Gained:
 - [x] **Advanced Data Cleaning:** Enhanced practical skills by identifying and correcting inconsistencies and errors in the bank dataset.
