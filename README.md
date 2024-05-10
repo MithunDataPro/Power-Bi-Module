@@ -36,7 +36,7 @@ This assignment focused on advanced data transformation techniques using Power Q
 
 **2.** Project Task To Be Performed _[Project_Task.pdf](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Tasks%20To%20Perform.pdf)_
 
-**3.** Data Transformation Done Through Power Query_[Data_Transformation](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Bank_Excel_Files_Datasets.zip)_ 
+**3.** Data Transformation Done Through Power Query_[Data_Transformation](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Data%20Transformation%20For%20Merchant%20Transcations.pbix)_ 
 
 ## Tasks and Skills Gained:
 - [x] **Advanced Data Cleaning:** Enhanced practical skills by identifying and correcting inconsistencies and errors in the bank dataset.
