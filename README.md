@@ -48,3 +48,28 @@ This assignment focused on advanced data transformation techniques using Power Q
 - [x] Use of the "Unpivot" function to reshape data, making it suitable for detailed analytical tasks.
 - [x] Merging and appending tables to create a unified view of transactions over multiple years.
 
+
+### Assignment-3: Advanced DAX (Data Analysis Expressions) in Power BI
+
+## Files Included
+
+1. `Chapter_2_Ex.pdf` - Contains the practice exercises for Power BI.
+2. `Employee_reimbursement_dataset.xlsx` - The dataset used for the assignment.
+3. `Solution Assignment-1.pbix` - The Power BI solution file with the completed analysis.
+
+## Experience Gained
+
+By completing this assignment, I gained valuable experience in:
+
+- Advanced DAX (Data Analysis Expressions) in Power BI.
+- Data cleaning and transformation using Power Query.
+- Creating meaningful visualizations to extract insights from the data.
+
+## References
+
+Refer to the following images and files for more details:
+- [Practice Exercise](./Chapter_2_Ex.pdf)
+- [Employee Reimbursement Dataset](./Employee_reimbursement_dataset.xlsx)
+- [Solution Assignment](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Solution%20For%20Clothing%20Visualization.pbix)
+
+
