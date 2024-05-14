@@ -69,7 +69,7 @@ By completing this assignment, I gained valuable experience in:
 
 Refer to the following images and files for more details:
 - [Practice Exercise](./Chapter_2_Ex.pdf)
-- [Employee Reimbursement Dataset](./Employee_reimbursement_dataset.xlsx)
+- [Employee Reimbursement Dataset](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/apparels_dataset.xlsx)
 - [Solution Assignment](https://github.com/MithunDataPro/Power-Bi-Module/blob/main/Solution%20For%20Clothing%20Visualization.pbix)
 
 
